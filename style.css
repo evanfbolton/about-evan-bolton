@@ -1,4 +1,11 @@
 .image-of-evan {
     height: 300px;
     border-radius: 50%;
+    transform: rotate(180deg);
+}
+.oddColors {
+    color: fuchsia;
+}
+.bigLetters {
+    font-size: 500%
 }
